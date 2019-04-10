@@ -1,7 +1,7 @@
 % SNN Classification
 % 2 groups with gaussian distribution with mean equals to zero
 %
-% each group has 50 points.
+% each group has 12 points.
 % supervised adaptation method 
 % axonal delays equals to 1.
 %
